@@ -9,7 +9,7 @@
         {
         "id": 2,
         "title": "App Development",
-        "image": "https://images.pexels.com/photos/118144/pexels-photo-1181244.jpeg",
+        "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg",
         "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam eum error magnam porro itaque sed maxime repellendus a deserunt magni, atque, odit unde nostrum ratione blanditiis ipsa doloremque voluptatum provident."
         },
         {
@@ -21,13 +21,13 @@
         {
         "id": 4,
         "title": "Buisness Development",
-        "image": "https://images.pexels.com/photos/118144/pexels-photo-1181244.jpeg",
+        "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg",
         "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam eum error magnam porro itaque sed maxime repellendus a deserunt magni, atque, odit unde nostrum ratione blanditiis ipsa doloremque voluptatum provident."
         },
         {
         "id": 5,
         "title": "Buisness Development",
-        "image": "https://images.pexels.com/photos/118144/pexels-photo-1181244.jpeg",
+        "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg",
         "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam eum error magnam porro itaque sed maxime repellendus a deserunt magni, atque, odit unde nostrum ratione blanditiis ipsa doloremque voluptatum provident."
         }
         ]
